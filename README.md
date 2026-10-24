@@ -6,7 +6,7 @@ transitions and text effects. Pixel font, layered 1px outlines, yellow accent.
 ## Use
 
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Zkxrll/<this-repo>/main/Library.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Zkxrll/ZkxVader/main/Library.lua'))()
 
 local Window = Library:CreateWindow({ Title = 'My Hub', Footer = 'v1', Size = UDim2.fromOffset(920, 640), AutoShow = true })
 local Tab = Window:AddTab('combat')
